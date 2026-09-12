@@ -1,0 +1,6 @@
+{
+  "name": "GARCIA - Em breve",
+  "description": "GARCIA - Agência especializada em design. Site em construção. Mas para agilizar seu atendimento, entre em contato com a gente clicando no botão: Quero solicitar um orçamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
